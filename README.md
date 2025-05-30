@@ -1,5 +1,3 @@
-# british_airways
-
 # British Airways Reviews Topic Modeling
 
 This project performs topic modeling on customer reviews of British Airways using Latent Dirichlet Allocation (LDA). The goal is to identify major themes in customer feedback to understand key areas of satisfaction and dissatisfaction.
